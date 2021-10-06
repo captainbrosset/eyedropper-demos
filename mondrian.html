@@ -45,6 +45,10 @@
 <button class="random">Randomize</button>
 
 <script>
+  if (!'EyeDropper' in window) {
+    alert('Your browser does not support the EyeDropper API yet. This demo will not work as intended');
+  }
+
   const ART_SIZE = 10;
   const MAX_TILES = 15;
   const MIN_DIM = 1;

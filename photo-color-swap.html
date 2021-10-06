@@ -73,6 +73,10 @@
 </div>
 
 <script>
+  if (!'EyeDropper' in window) {
+    alert('Your browser does not support the EyeDropper API yet. This demo will not work as intended');
+  }
+
   const selectBtn = document.querySelector('.select');
   const swapBtn = document.querySelector('.swap');
   const canvas = document.querySelector('canvas');

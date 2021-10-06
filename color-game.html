@@ -85,6 +85,10 @@
 </div>
 
 <script>
+  if (!'EyeDropper' in window) {
+    alert('Your browser does not support the EyeDropper API yet. This demo will not work as intended');
+  }
+
   const ROUND_MAX_TIME = 10 * 1000; // 10 seconds per round.
   const MAX_COLORS = 40; // 20 colors to choose from.
 

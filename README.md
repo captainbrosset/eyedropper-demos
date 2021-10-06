@@ -9,3 +9,11 @@ Sampling colors from your screen is a very useful feature in creative applicatio
 It is, unfortunately, not possible for web applications to do this today. Some browsers do support it if you use an `<input type=color>` element, but that means you're forced to use the input element for something you might want to do in JS only and customize to your needs.
 
 The EyeDropper API aims to fill that gap.
+
+## The demos
+
+There are 3 demos in the repository. Click below to try them in your browser. And use GitHub to review the source code.
+
+* Color game: Click play and find the matching color from the list at the bottom before the time runs out.
+* Photo color swap: Load a picture, then select a color from it, and finally select a second color to replace it with.
+* Mondrian generator: Generate random Mondrian-like color grids, and click on any tile in the grid to swap its color.
