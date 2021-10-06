@@ -16,7 +16,7 @@ At this time, the EyeDropper API is implemented in Chromium browsers. Try it in 
 
 ## The demos
 
-There are 3 demos in the repository. Click below to try them in your browser. And use GitHub to review the source code.
+There are 3 demos in the repository. Click below to try them in your browser. And use [GitHub](https://github.com/captainbrosset/eyedropper-demos) to review the source code.
 
 * [Color game](https://captainbrosset.github.io/eyedropper-demos/color-game.html): Click play and find the matching color from the list at the bottom before the time runs out.
 * [Photo color swap](https://captainbrosset.github.io/eyedropper-demos/photo-color-swap.html): Load a picture, then select a color from it, and finally select a second color to replace it with.
