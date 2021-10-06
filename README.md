@@ -10,6 +10,10 @@ It is, unfortunately, not possible for web applications to do this today. Some b
 
 The EyeDropper API aims to fill that gap.
 
+## Implementation
+
+At this time, the EyeDropper API is implemented in Chromium browsers. Try it in Microsoft Edge 95 or Google Chrome 95.
+
 ## The demos
 
 There are 3 demos in the repository. Click below to try them in your browser. And use GitHub to review the source code.
