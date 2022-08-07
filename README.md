@@ -21,3 +21,4 @@ There are 3 demos in the repository. Click below to try them in your browser. An
 * [Color game](https://captainbrosset.github.io/eyedropper-demos/color-game.html): Click play and find the matching color from the list at the bottom before the time runs out.
 * [Photo color swap](https://captainbrosset.github.io/eyedropper-demos/photo-color-swap.html): Load a picture, then select a color from it, and finally select a second color to replace it with.
 * [Mondrian generator](https://captainbrosset.github.io/eyedropper-demos/mondrian.html): Generate random Mondrian-like color grids, and click on any tile in the grid to swap its color.
+* [Online color picker](https://pickcoloronline.com/): Just a simple color picker to pick a color on your screen. 
